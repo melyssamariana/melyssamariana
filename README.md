@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**melyssamariana/melyssamariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
++ Embedded systems
++ Freelancer web-design 
++ Learning agile methodologies and UX Design
++ Projeto de extensão Mulheres nas Engenharias EMC
++ IC - INF UFG (area of automation of indoor air quality).
++ Engenharia de Computação - UFG
+:pushpin: Goiânia/GO
+<br/>
+
+<br />
