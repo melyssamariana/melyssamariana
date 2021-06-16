@@ -8,7 +8,7 @@
 + Embedded systems
 + Freelancer web-design 
 + Learning agile methodologies and UX Design
-+ IC - INF UFG (area of automation of indoor air quality).
++ IC - INF UFG (automation of indoor air quality).
 + Computer Engineering - UFG
 :pushpin: Goiânia/GO
 <br/>
