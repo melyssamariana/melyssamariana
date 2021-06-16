@@ -8,7 +8,6 @@
 + Embedded systems
 + Freelancer web-design 
 + Learning agile methodologies and UX Design
-+ Projeto de extensão Mulheres nas Engenharias EMC
 + IC - INF UFG (area of automation of indoor air quality).
 + Engenharia de Computação - UFG
 :pushpin: Goiânia/GO
