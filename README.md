@@ -12,5 +12,6 @@
 + Computer Engineering - UFG
 :pushpin: Goiânia/GO
 <br/>
++ Starting a portfólio in UX : https://melyssamariana.medium.com
 
 <br />
