@@ -15,7 +15,6 @@
 + 📍 MsC IMT Atlantique - France
 + Computer Engineering UFG - Brazil
 
-<br/>
 
 ## I've already worked with
 
