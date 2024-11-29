@@ -17,10 +17,7 @@
 
 <br/>
 
-<br />
-
 ## I've already worked with
-
 
 ### IoT : 
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%23f8efd4.svg?style=flat&logo=eclipsemosquitto&logoColor=af552e)
